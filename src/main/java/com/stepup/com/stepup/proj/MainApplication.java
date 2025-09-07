@@ -8,11 +8,11 @@ public class MainApplication {
         System.out.println("Hello World!");
         System.out.println("11111");
         System.out.println("222");
+        doSomething();
         System.out.println("---");
     }
 
     public static void doSomething(){
-        System.out.println("8");
-        System.out.println("5");
+        System.out.println("Hello World");
     }
 }
