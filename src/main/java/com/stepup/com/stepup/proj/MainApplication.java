@@ -13,5 +13,6 @@ public class MainApplication {
     public static void doSomething(){
         System.out.println("1");
         System.out.println("00");
+        System.out.println("9999");
     }
 }
